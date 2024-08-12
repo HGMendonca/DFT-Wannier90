@@ -1,0 +1,5 @@
+&BANDS
+prefix="graf"
+outdir="./"
+filband= "Band-Graf.dat"
+/
